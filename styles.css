@@ -9,7 +9,7 @@
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
-    scroll-padding-top: 1rem;
+    scroll-padding-top: 2rem;
 }
 /* Variables */
 :root {
