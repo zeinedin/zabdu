@@ -736,7 +736,7 @@ footer .fline{
         
         max-width: 250px;
         width: 70%;
-        margin: 0 136px;
+        margin: 0 89px;
         grid-template-columns: 1fr;
        
     }
@@ -855,7 +855,7 @@ footer .fline{
         padding: 16px;
     }
     footer{
-        margin-left: 70px;
+        margin-left: 5px;
     }
     footer p {
       
